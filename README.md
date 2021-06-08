@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 🤟 My name is Stephane Katende</h1>
-<h3 align="center">Junior Software Engeneering student with a passion in mobile. Here you will find my finished projects! I am always looking to improve any feedback on my past projects is greatly appreciated🖤!</h3>
+<h3 align="center">Junior Software Engeneering student with a passion in mobile. Here you will find my finished projects! I am always looking to improve any feedback on my past projects is greatly appreciated🖤</h3>
 
 
 - 🎯Currently working on : **My first Kotlin projects! (will release once finished 😊)**
