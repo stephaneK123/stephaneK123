@@ -1,9 +1,6 @@
 <h1 align="center">Bonjour 🤟 My name is Stephane Katende</h1>
 <h3 align="center">Junior Software Engeneering student with a passion in mobile. Here you will find my finished projects! I am always looking to improve any feedback on my past projects is greatly appreciated🖤!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephanek123&label=Profile%20views&color=0e75b6&style=flat" alt="stephanek123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanek123" alt="stephanek123" /></a> </p>
 
 - 🎯Currently working on : **My first Kotlin projects! (will release once finished 😊)**
 
