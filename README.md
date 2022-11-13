@@ -12,5 +12,5 @@
 
 - ✋Wish to work together : You can reach me through LinkedIn, Discord, Email, Anything!
 
-- 😹Fun fact : **<!--I do not like vegatables 🤮🤢. I love entrepreneurship idealogies, and a big believer in 1% better everyday.-->**
+- 😹Fun fact :  `<!--I do not like vegatables 🤮🤢. I love entrepreneurship idealogies, and a big believer in 1% better everyday.-->`
 
