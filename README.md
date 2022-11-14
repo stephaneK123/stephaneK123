@@ -8,7 +8,7 @@
 
 - 🔙Lastest project : [iSining](https://github.com/ajcatindig/iSining) [weatherNotification](https://github.com/stephaneK123/weatherNotification) 
 
-- 💻Currently learning : [Google's Udacity Court on Intermediate Android Development](https://developer.android.com/courses)
+- 💻Currently learning : [Google's Udacity Cource on Intermediate Android Development](https://developer.android.com/courses)
 
 - ✋Wish to work together : You can reach me through LinkedIn, Discord, Email, Anything!
 
