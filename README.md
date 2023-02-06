@@ -4,7 +4,7 @@
 
 - 🎯Currently working on : [Growing My Discord Dev Group](https://github.com/Android-Battalion)  
 
-- 📲Fastest way to reach : **For professional enquires please email me(swar.kung@gmail.con).** I am most active on [Discord](https://discord.gg/yeZvjjYz))or reach me on [Linkedin](https://www.linkedin.com/in/skatende/).
+- 📲Fastest way to reach : **For professional enquires please email me(swar.kung@gmail.con).** I am most active on [Discord](https://discord.gg/yeZvjjYz) or reach me on [Linkedin](https://www.linkedin.com/in/skatende/).
 
 - 🔙Lastest project : [DateMee](https://www.figma.com/file/PgJFxHHQAnYB5roi11zgUb/DateMe!!---UI?node-id=0%3A1&t=OZMXoiLLSJ6rD4oN-0) [iSining](https://github.com/ajcatindig/iSining) [weatherNotification](https://github.com/stephaneK123/weatherNotification) 
 
