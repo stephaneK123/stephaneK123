@@ -8,7 +8,7 @@
 
 - 🔙Lastest project : [DateMee](https://www.figma.com/file/PgJFxHHQAnYB5roi11zgUb/DateMe!!---UI?node-id=0%3A1&t=OZMXoiLLSJ6rD4oN-0) [iSining](https://github.com/ajcatindig/iSining) [weatherNotification](https://github.com/stephaneK123/weatherNotification) 
 
-- 💻Currently learning : How to manage Android and Web projects and Freelancing. 
+- 💻Currently learning : How to manage Android, Web projects and Freelancing. 
 
 - ✋Wish to work together : [Join my discord dev group!](https://discord.gg/SmPdSKBP4R)
 
